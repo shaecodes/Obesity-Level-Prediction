@@ -23,6 +23,13 @@ This dataset contains information on individuals' gender, age, height, weight, f
 ## Analysis
 The goal of this dataset is to predict an individual's obesity level based on the provided factors. Exploratory data analysis and predictive modeling can be performed on this dataset to extract insights and build predictive models.
 
+## Aim 
+- To understand the factors that contribute to obesity and how they can be measured and analyzed using data.
+- To gain experience in data preprocessing, cleaning, and visualization techniques using Python libraries such as pandas and seaborn.
+- To learn how to apply various machine learning algorithms, such as decision trees and logistic regression, for predictive modeling in Python.
+- To evaluate the performance of the predictive model using metrics such as accuracy, precision, recall, and F1 score.
+- To gain insights into how predictive models can be used to inform public health interventions and policies aimed at reducing obesity levels.
+
 ## Source
 The dataset was obtained from Kaggle and was originally collected by the research team of Dr. Paulo Cortez and Prof. Ana Almeida from the University of Minho, Portugal.
 
