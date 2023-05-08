@@ -20,7 +20,7 @@ This dataset contains information on individuals' gender, age, height, weight, f
 <li><strong>TUE:</strong> How many hours does the individual spend sitting on a typical day? 0 (less than an hour), 1 (1 to 2 hours), or 2 (more than 2 hours)</li>
 <li><strong>CALC:</strong> Does the individual take extra calories? Always, Sometimes or No</li>
 <li><strong>MTRANS:</strong> Transportation method used by the individual: Automobile, Bike, Motorbike, Public Transportation or Walking</li>
-<li><strong>NObeyesdad:</strong> Obesity level of the individual, classified into: 
+<li><strong>NObeyesdad:</strong> Obesity level of the individual, classified into: </ul>
   - Insufficient_Weight
   - Normal_Weight
   - Overweight_Level_I
@@ -28,7 +28,7 @@ This dataset contains information on individuals' gender, age, height, weight, f
   - Obesity_Type_I
   - Obesity_Type_II 
   - Obesity_Type_III</li>
-</ul>
+
 
 ## Analysis
 The goal of this dataset is to predict an individual's obesity level based on the provided factors. Exploratory data analysis and predictive modeling can be performed on this dataset to extract insights and build predictive models.
