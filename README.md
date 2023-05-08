@@ -20,7 +20,14 @@ This dataset contains information on individuals' gender, age, height, weight, f
 <li><strong>TUE:</strong> How many hours does the individual spend sitting on a typical day? 0 (less than an hour), 1 (1 to 2 hours), or 2 (more than 2 hours)</li>
 <li><strong>CALC:</strong> Does the individual take extra calories? Always, Sometimes or No</li>
 <li><strong>MTRANS:</strong> Transportation method used by the individual: Automobile, Bike, Motorbike, Public Transportation or Walking</li>
-<li><strong>NObeyesdad:</strong> Obesity level of the individual, classified into: Insufficient_Weight, Normal_Weight, Overweight_Level_I, Overweight_Level_II, Obesity_Type_I, Obesity_Type_II or Obesity_Type_III</li>
+<li><strong>NObeyesdad:</strong> Obesity level of the individual, classified into: 
+  - Insufficient_Weight
+  - Normal_Weight
+  - Overweight_Level_I
+  - Overweight_Level_II 
+  - Obesity_Type_I
+  - Obesity_Type_II 
+  - Obesity_Type_III</li>
 </ul>
 
 ## Analysis
