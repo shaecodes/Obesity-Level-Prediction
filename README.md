@@ -2,23 +2,26 @@
 This dataset contains information on individuals' gender, age, height, weight, family history with overweight, food consumption habits, physical activity, among other factors, to predict their obesity level. The dataset has 2111 rows and 17 columns.
 
 ## Dataset columns
-- Gender: Male or Female
-- Age: Age of the individual in years
-- Height: Height of the individual in meters
-- Weight: Weight of the individual in kilograms
-- family_history_with_overweight: Has the individual a family history of overweight or obesity? Yes or No
-- FAVC: Does the individual consume high caloric food frequently? Yes or No
-- FCVC: How often does the individual consume vegetables? 1 (never) to 3 (always)
-- NCP: How many main meals does the individual have daily? 1 to 3
-- CAEC: Does the individual monitor the calories they eat? Sometimes, Frequently, Always or No
-- SMOKE: Does the individual smoke? Yes or No
-- CH2O: How much water does the individual drink daily? 1 (less than a liter), 2 (1 to 2 liters), or 3 (more than 2 liters)
-- SCC: Does the individual monitor the calories they burn? Yes or No
-- FAF: How often does the individual engage in physical activity? 0 (never) to 3 (always)
-- TUE: How many hours does the individual spend sitting on a typical day? 0 (less than an hour), 1 (1 to 2 hours), or 2 (more than 2 hours)
-- CALC: Does the individual take extra calories? Always, Sometimes or No
-- MTRANS: Transportation method used by the individual: Automobile, Bike, Motorbike, Public Transportation or Walking
-- NObeyesdad: Obesity level of the individual, classified into: Insufficient_Weight, Normal_Weight, Overweight_Level_I, Overweight_Level_II, Obesity_Type_I, Obesity_Type_II or Obesity_Type_III
+
+<ul>
+<li><strong>Gender:</strong> Male or Female</li>
+<li><strong>Age:</strong> Age of the individual in years</li>
+<li><strong>Height:</strong> Height of the individual in meters</li>
+<li><strong>Weight:</strong> Weight of the individual in kilograms</li>
+<li><strong>family_history_with_overweight:</strong> Has the individual a family history of overweight or obesity? Yes or No</li>
+<li><strong>FAVC:</strong> Does the individual consume high caloric food frequently? Yes or No</li>
+<li><strong>FCVC:</strong> How often does the individual consume vegetables? 1 (never) to 3 (always)</li>
+<li><strong>NCP:</strong> How many main meals does the individual have daily? 1 to 3</li>
+<li><strong>CAEC:</strong> Does the individual monitor the calories they eat? Sometimes, Frequently, Always or No</li>
+<li><strong>SMOKE:</strong> Does the individual smoke? Yes or No</li>
+<li><strong>CH2O:</strong> How much water does the individual drink daily? 1 (less than a liter), 2 (1 to 2 liters), or 3 (more than 2 liters)</li>
+<li><strong>SCC:</strong> Does the individual monitor the calories they burn? Yes or No</li>
+<li><strong>FAF:</strong> How often does the individual engage in physical activity? 0 (never) to 3 (always)</li>
+<li><strong>TUE:</strong> How many hours does the individual spend sitting on a typical day? 0 (less than an hour), 1 (1 to 2 hours), or 2 (more than 2 hours)</li>
+<li><strong>CALC:</strong> Does the individual take extra calories? Always, Sometimes or No</li>
+<li><strong>MTRANS:</strong> Transportation method used by the individual: Automobile, Bike, Motorbike, Public Transportation or Walking</li>
+<li><strong>NObeyesdad:</strong> Obesity level of the individual, classified into: Insufficient_Weight, Normal_Weight, Overweight_Level_I, Overweight_Level_II, Obesity_Type_I, Obesity_Type_II or Obesity_Type_III</li>
+</ul>
 
 ## Analysis
 The goal of this dataset is to predict an individual's obesity level based on the provided factors. Exploratory data analysis and predictive modeling can be performed on this dataset to extract insights and build predictive models.
